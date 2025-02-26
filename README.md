@@ -39,4 +39,4 @@ This project is licensed under the MIT License. You can use it for free, modify,
 
 ## About Me
 
-Hello, I am A B M Ahsan, a data, FinTech, crypto, and blockchain enthusiast. Have background in analtyics, enterpreneruship, international business, accounting, and finance. Worked in data analtyics, research, and business development.
+Hello, I am Ahsan, a data, FinTech, crypto, and blockchain enthusiast. Have background in analtyics, enterpreneruship, international business, accounting, and finance. Worked in data analtyics, research, and business development.
