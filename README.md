@@ -37,6 +37,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the MIT License. You can use it for free, modify, and share this project with proper attribution.
 
-## About Me
+## 🌟 About Me
 
 Hello, I am Ahsan, a data, FinTech, crypto, and blockchain enthusiast. Have background in analtyics, enterpreneruship, international business, accounting, and finance. Worked in data analtyics, research, and business development.
